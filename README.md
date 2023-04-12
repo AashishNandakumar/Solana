@@ -1,3 +1,3 @@
-# Solana
+# Solidity
 
-> Solana Tuts
+> Solidity Tuts
